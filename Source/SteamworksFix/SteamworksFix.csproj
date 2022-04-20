@@ -43,6 +43,7 @@
     </Reference>
     <Reference Include="Assembly-CSharp-firstpass">
       <HintPath>..\..\..\..\RimWorldWin64_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="HarmonyMod">
       <HintPath>..\..\..\2009463077\Current\Assemblies\HarmonyMod.dll</HintPath>
